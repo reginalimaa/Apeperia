@@ -27,7 +27,8 @@
 }
 
 .destaques__painel-imagem {
-    width: 100vw;
+    width: 100vw; /* Unidade relativa*/
+    max-width: 600px; /*Unidade fixa. Limita o tamanho da imagem, para não ficar muito grande em telas grandes, por exemplo */
 
     box-shadow: 0 2px 10px 5px #00000020;
 
