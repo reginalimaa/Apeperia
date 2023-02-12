@@ -33,6 +33,10 @@
     margin-bottom: 1rem;
 }
 
+.sobre__imagem {
+    display: none; /* esconder o conteúdo que estiver dentro da classe, nesse caso, uma imagem*/
+}
+
 @media screen and (min-width: 1024px) {
     .sobre {
         display: flex;

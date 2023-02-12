@@ -24,8 +24,8 @@ body {
 }
 
 .container {
-    margin-right: 6%;
-    margin-left: 6%;
+    padding-right: 6%;
+    padding-left: 6%;
     
 }
 
@@ -46,8 +46,9 @@ body {
 }
 
 @media screen and (min-width: 1024px) {
-    .container {
-        padding-left: calc((100% - 940px)/2);
-        padding-right: calc((100% - 940px)/2);
+        .container {
+            padding-left: calc((100% - 940px)/2);
+            padding-right: calc((100% - 940px)/2);
+            margin: 0;
+        }
     }
-}

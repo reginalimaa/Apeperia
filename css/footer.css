@@ -40,6 +40,9 @@
         flex-direction: row;
         flex-wrap: wrap;
         justify-content: space-between;
+
+        padding-right: 6%;
+        padding-left: 6%;
     }
 
     .rodape__navegacao {
