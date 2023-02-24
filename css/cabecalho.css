@@ -9,8 +9,8 @@
     flex-direction: column;
     align-items: center;
 
-    padding-top: .75rem;
-    padding-bottom: .75rem;
+    padding-top: .90rem;
+    padding-bottom: .90rem;
 
     border-bottom: 1px solid var(--borda-cabecalho-mobile);
 
